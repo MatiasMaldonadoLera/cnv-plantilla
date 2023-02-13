@@ -1,0 +1,303 @@
+/*
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/static/Montserrat-Thin.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/static/Montserrat-ThinItalic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/static/Montserrat-Black.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/static/Montserrat-BlackItalic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/static/Montserrat-Bold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/static/Montserrat-BoldItalic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/static/Montserrat-ExtraBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/static/Montserrat-ExtraBoldItalic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/static/Montserrat-ExtraLight.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/static/Montserrat-ExtraLightItalic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/static/Montserrat-Italic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/static/Montserrat-Light.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/static/Montserrat-Medium.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/static/Montserrat-MediumItalic.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/static/Montserrat-Regular.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/static/Montserrat-SemiBold.ttf) format('truetype');
+}
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/static/Montserrat-SemiBoldItalic.ttf) format('truetype');
+}
+*/
+
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/Montserrat-VariableFont_wght.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Montserrat', sans-serif;
+    src: url(./../fonts/Montserrat/Montserrat-VariableFont_wght.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url(./../fonts/Lato/Lato-Black.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url(./../fonts/Lato/Lato-BlackItalic.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url(./../fonts/Lato/Lato-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url(./../fonts/Lato/Lato-BoldItalic.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url(./../fonts/Lato/Lato-Italic.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url(./../fonts/Lato/Lato-Light.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url(./../fonts/Lato/Lato-LightItalic.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url(./../fonts/Lato/Lato-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url(./../fonts/Lato/Lato-Thin.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'Lato', sans-serif;
+    src: url(./../fonts/Lato/Lato-ThinItalic.ttf) format('truetype');
+}
+
+.fuente-montserrat-t100{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 100;
+}
+
+.fuente-montserrat-t100i{
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 100;
+}
+
+.fuente-montserrat-el200{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 200;
+}
+
+.fuente-montserrat-el200i{
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 200;
+}
+
+.fuente-montserrat-l300{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+}
+
+.fuente-montserrat-l300i{
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 300;
+}
+
+.fuente-montserrat-r400{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.fuente-montserrat-r400i{
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 400;
+}
+
+.fuente-montserrat-m500{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+}
+
+.fuente-montserrat-m500i{
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 500;
+}
+
+.fuente-montserrat-sb600{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+}
+
+.fuente-montserrat-sb600i{
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 600;
+}
+
+.fuente-montserrat-b700{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+}
+
+.fuente-montserrat-b700i{
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 700;
+}
+
+.fuente-montserrat-eb800{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 800;
+}
+
+.fuente-montserrat-eb800i{
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 800;
+}
+
+.fuente-montserrat-b900{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 900;
+}
+
+.fuente-montserrat-b900i{
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 900;
+}
+
+.fuente-lato-t100{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 100;
+}
+
+.fuente-lato-t100i{
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 100;
+}
+
+.fuente-lato-l300{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 300;
+}
+
+.fuente-lato-l300i{
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 300;
+}
+
+.fuente-lato-r400{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.fuente-lato-r400i{
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 400;
+}
+
+.fuente-lato-b700{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 700;
+}
+
+.fuente-lato-b700i{
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 700;
+}
+
+.fuente-lato-b900{
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 900;
+}
+
+.fuente-lato-b900i{
+    font-family: 'Lato';
+    font-style: italic;
+    font-weight: 900;
+}
