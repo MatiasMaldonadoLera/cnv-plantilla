@@ -1,3 +1,71 @@
-.main{
+.main {
     padding: 10px;
+}
+
+.primary-1 {
+    background-color: #80c7e6;
+}
+
+.primary-2 {
+    background-color: #40abd9;
+}
+
+.primary-3 {
+    background-color: #209dd3;
+}
+
+.primary-4 {
+    background-color: #008ecc
+}
+
+.primary-5 {
+    background-color: #004766;
+}
+
+.primary-6 {
+    background-color: #002433;
+}
+
+.primary-7 {
+    background-color: #00121a;
+}
+
+.color-1 {
+    background-color: #001e61;
+}
+
+.color-2{
+    background-color: #edf3f4;
+}
+
+.color-3{
+    background-color: #000;
+}
+
+.color-4{
+    background-color: #66afe9;
+}
+
+.color-5{
+    background-color: #ccc;
+}
+
+
+.rectangulo{
+    width: 50px;
+    height: 15px;
+    display: inline-block;
+    border: 1px solid;
+}
+
+.input-AdI{
+    width: 440px;
+    margin: 30px auto 10px auto;
+    padding: 25px 12px;
+    text-align: center;
+    font-size: 19px;
+    font-weight: 400;
+    color: #231f20;
+    border: 1px solid #ccc;
+    border-radius: 5px;
 }
